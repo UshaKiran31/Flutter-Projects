@@ -1,4 +1,4 @@
-#Dicee App
+// Dicee App
 import 'package:flutter/material.dart';
 import 'dart:math';
 
