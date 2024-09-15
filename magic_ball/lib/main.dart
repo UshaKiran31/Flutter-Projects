@@ -1,3 +1,4 @@
+// Magic ball App
 import 'package:flutter/material.dart';
 import 'dart:math';
 
